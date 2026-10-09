@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-const DB_USER="adsasfSAJANS_djnfdAsdfd-D"
+AI_GEMINI_API_KEY=AQ.Ab8RN6LAksSJYQ0MvCZOTswjv3KNPkLA6wroq8OsMH0m5Wh
 root.render(
   <React.StrictMode>
     <App />
