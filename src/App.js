@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const db_pass=process.env.DB_PASS
   return (
     <div className="App">
       <header className="App-header">
